@@ -1,6 +1,7 @@
 # MQTT, Mosquitto (Broker) and Paho (Client)
 
 ##### OS: Ubuntu 18.04
+##### NOTE: It works perfectly using the client in a Raspberry Pi (Raspbian os)
 \
 Install Mosquitto (MQTT Boker):
 ```sh
